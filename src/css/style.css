@@ -14,20 +14,4 @@ body {
   padding: 0;
   margin: 0;
   font-family: playFont;
-}
-
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-
-.content {
-  width: 50%;
-  margin: 10px auto;
-  position: relative;
-  padding-top: 30%;
-}
-.content .form-control {
-  margin: 15px;
 }/*# sourceMappingURL=style.css.map */

@@ -1,7 +1,7 @@
 
 const Home = () => {
     return(
-        <div className="content-panel">
+        <div className="content">
             This is content
         </div>
     )

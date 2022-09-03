@@ -4,7 +4,7 @@ import '../css/style.css';
 
 const Header = () => {
     return (
-        <div className='header-panel'>
+        <div className='header'>
             <Menu/>
         </div>
     )
